@@ -1,4 +1,4 @@
-# Noise labelling improvement for the NooiseCapture App
+# Noise labelling improvement for the NoiseCapture App
 
 This alternative version allows to improve the labelling of a campaign. The java classes that have been modified were:
 
